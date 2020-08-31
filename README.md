@@ -5,11 +5,15 @@ Week 8/10/2020
   Basic Set-up done:
   1. Creating new posts
   2. Creating similar structured pages using layout/default.html
+  3. Header and Footer set up
+  4. Links verified
 
-8/30/2020
+Week 8/30/2020
 - HTML/CSS Practice on Home page
 - Focus on:
-  1. Adding photos panel
-  2. Link to post from photo
+  1. Try segmenting layout like squarespace models
+  2. Test adding photos sections
+  3. Link to post from photo
+
 
 
