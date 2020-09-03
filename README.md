@@ -1,5 +1,10 @@
 Anna's Blog/Website Documentation
 
+Tutorial currently following:
+1. Flask Website Build: https://www.youtube.com/watch?v=2e4STDACVA8
+2. Blog Tutorial: https://www.youtube.com/watch?v=wq-Q7CDj6ZI 
+
+
 Week 8/10/2020
 - Test Basic Configuration Changes
   Basic Set-up done:
