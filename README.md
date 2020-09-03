@@ -11,7 +11,7 @@ Week 8/10/2020
 Week 8/30/2020
 - HTML/CSS Practice on Home page
 - Focus on:
-  1. Try segmenting layout like squarespace models
+  1. Try segmenting layout like squarespace models (Example: https://www.gonewiththewendy.com/)
   2. Test adding photos sections
   3. Link to post from photo
 
